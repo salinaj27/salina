@@ -5,10 +5,13 @@
 
 #### About Me 🤸‍♂️
 
-> I have always been interested in technology, and that sparked my interest in Software Development. I learned more about the subject via online resources and began to teach myself basic concepts. I've become intimately familiar with several coding languages and participated in coding challenges. I'm very excited to work as a professional Software Developer and use the versatile skills that this career demands.
+<p>I have always been interested in technology, and that sparked my interest in Software Development. 
+
+I learned more about the subject via online resources and began to teach myself basic concepts. I've become intimately familiar with several coding languages and participated in coding challenges. I'm very excited to work as a professional Software Developer and use the versatile skills that this career demands.
+</p>
+<br>
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
-
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
 <li><b>𝚁𝚎𝚊𝚌𝚝</b></li>
 <li><b>𝚁𝚎𝚍𝚞𝚡</b></li>
