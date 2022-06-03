@@ -38,3 +38,16 @@ I learned more about the subject via online resources and began to teach myself 
 #### 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙳𝚎𝚜𝚔
 *𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
 <li><a href="https://github.com/salinaj27/Support-Desk">𝙶𝚒𝚝𝙷𝚞𝚋</li>
+<br></br>
+
+## 👩🏽‍💻 Currently working on ...
+
+<img src="https://media1.giphy.com/media/FqdGGgugkC4Xm/giphy.gif?cid=ecf05e47wd5mylv9stgd3kpm2ymuy30juz4fb1lu5a4ac5nl&rid=giphy.gif&ct=g" width="680" align="right">
+
+- 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
+- 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚂𝚒𝚝𝚎
+
+### ⭐️ 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝙸 𝚊𝚖 . . .
+- 𝙳𝚘𝚒𝚗𝚐 𝙲𝚛𝚘𝚜𝚜F𝚒𝚝
+- 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚝𝚘 𝙿𝚘𝚍𝚌𝚊𝚜𝚝
+
