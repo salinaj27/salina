@@ -3,10 +3,10 @@
 
 **I am currently a full stack engineer specializing in JavaScript and the MERN stack, who is also always looking to explore new technologies.**
 
-#### About Me 🤸‍♂️
+## About Me 🤸‍♂️
 
-<p>I have always been interested in technology, and that sparked my interest in Software Development. 
-
+<p>I have always been interested in technology, and that sparked my interest in Software Development.  
+<img src=https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47898ce94iit7a33pfx8tf5ri9dghtfei1nr82dt3n&rid=giphy.gif&ct=s" aligh="left"/>
 I learned more about the subject via online resources and began to teach myself basic concepts. I've become intimately familiar with several coding languages and participated in coding challenges. I'm very excited to work as a professional Software Developer and use the versatile skills that this career demands.
 </p>
 <br>
