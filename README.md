@@ -22,7 +22,6 @@ I learned more about the subject via online resources and began to teach myself 
 <li><b>𝙶𝚒𝚝</b></li>
 <li><b>𝙷𝚃𝙼𝙻</b></li>
 <li><b>𝙲𝚂𝚂</b></li>
-<li><b>𝙿𝚢𝚝𝚑𝚘𝚗</b></li>
 <li><b>Webpack</b></li>
 <li><b>Babel</b></li>
 
@@ -40,14 +39,14 @@ I learned more about the subject via online resources and began to teach myself 
 <li><a href="https://github.com/salinaj27/Support-Desk">𝙶𝚒𝚝𝙷𝚞𝚋</li>
 <br></br>
 
-## 👩🏽‍💻 Currently working on ...
+## 👩🏽‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
 
 <img src="https://media1.giphy.com/media/FqdGGgugkC4Xm/giphy.gif?cid=ecf05e47wd5mylv9stgd3kpm2ymuy30juz4fb1lu5a4ac5nl&rid=giphy.gif&ct=g" width="680" align="right">
 
 - 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
 - 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚂𝚒𝚝𝚎
 
-### ⭐️ 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝙸 𝚊𝚖 . . .
+## ⭐️ 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝙸 𝚊𝚖 . . .
 - 𝙳𝚘𝚒𝚗𝚐 𝙲𝚛𝚘𝚜𝚜F𝚒𝚝
 - 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚝𝚘 𝙿𝚘𝚍𝚌𝚊𝚜𝚝
 
