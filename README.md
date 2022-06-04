@@ -11,7 +11,7 @@ I learned more about the subject via online resources and began to teach myself 
 <br>
 
 ## 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
-<img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47vuzd1ngph38rzzghhz1fy7fv2xy05n5oyhf4687u&rid=giphy.gif&ct=g" width="680" align="right">
+<img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47vuzd1ngph38rzzghhz1fy7fv2xy05n5oyhf4687u&rid=giphy.gif&ct=g" width="600" align="right">
 <li><b>𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝</b></li>
 <li><b>𝚁𝚎𝚊𝚌𝚝</b></li>
 <li><b>𝚁𝚎𝚍𝚞𝚡</b></li>
