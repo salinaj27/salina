@@ -1,6 +1,6 @@
 <h1 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎,👋 𝙸'𝚖 𝚂𝚊𝚕𝚒𝚗𝚊!<img src="https://media4.giphy.com/media/LknYP88qjmwGRQgICD/giphy.gif?cid=ecf05e47kn6n6s916yza91wropzfxv9b9lnoycd014w2ejgh&rid=giphy.gif&ct=s" width="60"><h1/>
   
-<h5 align="center"><b>A full stack engineer specializing in JavaScript and the MERN stack, who is always looking to explore new technologies.</b></h5>
+<h6 align="center"><b>A full stack engineer specializing in JavaScript and the MERN stack, who is always looking to explore new technologies.</b></h6>
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
 
