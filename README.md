@@ -34,9 +34,8 @@ I learned more about the subject via online resources and began to teach myself 
 *A github user finder*
 <li><a href="https://github.com/salinaj27/Github-finder-app">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
 
-#### 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙳𝚎𝚜𝚔
+#### 𝚁𝚊𝚗𝚍𝚘𝚖 𝙽𝚞𝚖𝚋𝚎𝚛 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛
 *𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
-<li><a href="https://github.com/salinaj27/Support-Desk">𝙶𝚒𝚝𝙷𝚞𝚋</li>
 <br></br>
 
 ## 👩🏽‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
