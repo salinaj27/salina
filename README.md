@@ -35,7 +35,9 @@ I learned more about the subject via online resources and began to teach myself 
 <li><a href="https://github.com/salinaj27/Github-finder-app">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
 
 #### 𝚁𝚊𝚗𝚍𝚘𝚖 𝙽𝚞𝚖𝚋𝚎𝚛 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛
-*𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
+
+#### 𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
+<li><a href="https://github.com/salinaj27/Mern-stack-proj">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
 <br></br>
 
 ## 👩🏽‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
