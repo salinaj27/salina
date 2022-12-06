@@ -28,7 +28,7 @@ I learned more about the subject via online resources and began to teach myself 
 <br></br>
 
 ## 🔥 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-<img src="https://media1.giphy.com/media/6G48V62YlbZj1W6fso/giphy.gif?cid=ecf05e47rhd67g2wrm0mlmtz1s9accxdrd9z0zssu5ag8w0p&rid=giphy.gif&ct=g" width="450" align="left">
+<img src="https://media1.giphy.com/media/6G48V62YlbZj1W6fso/giphy.gif?cid=ecf05e47rhd67g2wrm0mlmtz1s9accxdrd9z0zssu5ag8w0p&rid=giphy.gif&ct=g" width="420" align="left">
 
   #### 𝙶𝚒𝚝𝙷𝚞𝚋 F𝚒𝚗𝚍𝚎𝚛
   *A github user finder*
