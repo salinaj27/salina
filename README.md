@@ -40,7 +40,7 @@ I learned more about the subject via online resources and began to teach myself 
 
 ## 👩🏽‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
 
-<img src="https://media1.giphy.com/media/FqdGGgugkC4Xm/giphy.gif?cid=ecf05e47wd5mylv9stgd3kpm2ymuy30juz4fb1lu5a4ac5nl&rid=giphy.gif&ct=g" width="560" align="right">
+<img src="https://media1.giphy.com/media/FqdGGgugkC4Xm/giphy.gif?cid=ecf05e47wd5mylv9stgd3kpm2ymuy30juz4fb1lu5a4ac5nl&rid=giphy.gif&ct=g" width="580" align="right">
 
 - 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
 - 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚂𝚒𝚝𝚎
