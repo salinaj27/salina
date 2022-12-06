@@ -30,15 +30,13 @@ I learned more about the subject via online resources and began to teach myself 
 ## 🔥 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 <img src="https://media1.giphy.com/media/6G48V62YlbZj1W6fso/giphy.gif?cid=ecf05e47rhd67g2wrm0mlmtz1s9accxdrd9z0zssu5ag8w0p&rid=giphy.gif&ct=g" width="450" align="left">
 
-#### 𝙶𝚒𝚝𝙷𝚞𝚋 F𝚒𝚗𝚍𝚎𝚛
-*A github user finder*
-<li><a href="https://github.com/salinaj27/Github-finder-app">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
+  #### 𝙶𝚒𝚝𝙷𝚞𝚋 F𝚒𝚗𝚍𝚎𝚛
+  *A github user finder*
+  <li><a href="https://github.com/salinaj27/Github-finder-app">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
 
-#### 𝚁𝚊𝚗𝚍𝚘𝚖 𝙽𝚞𝚖𝚋𝚎𝚛 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚘𝚛
-
-#### 𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
-<li><a href="https://github.com/salinaj27/Mern-stack-proj">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
-<br></br>
+  #### 𝙰 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔 MERN 𝚠𝚎𝚋𝚜𝚒𝚝𝚎*
+  <li><a href="https://github.com/salinaj27/Mern-stack-proj">𝙶𝚒𝚝𝙷𝚞𝚋</a></li>
+  <br></br>
 
 ## 👩🏽‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
 
