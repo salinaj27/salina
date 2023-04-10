@@ -4,8 +4,7 @@
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
 
-<p>I have always been interested in technology, and that sparked my interest in Software Development.
-I learned more about the subject via online resources and began to teach myself basic concepts. I've become intimately familiar with several coding languages and participated in coding challenges. I'm very excited to work as a professional Software Developer and use the versatile skills that this career demands.
+<p>I am a Software Developer with industry experience building websites and web applications. I have worked with both web-based, multi-threaded applications as well as front-end development using the latest web technologies. I specialize in JavaScript and have professional experience working with React. 
 
 </p>
 <br>
